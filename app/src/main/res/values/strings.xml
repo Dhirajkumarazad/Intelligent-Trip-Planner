@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intelligent Trip Planner</string>
+
+    <string name="places_api_key">AIzaSyAnL5LIVRZbMVIQj2DFxbP-1wdJec3aZFA
+    </string>
+    <string name="title_activity_maps">Map</string>
+</resources>

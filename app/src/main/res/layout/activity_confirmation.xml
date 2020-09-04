@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Confirmation"
+    android:background="@drawable/back"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="30dp"
+        android:text="Select Date of Travel"
+        android:id="@+id/tv1"
+        android:layout_centerHorizontal="true"
+        />
+    <CalendarView
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/cal"
+        android:layout_below="@+id/tv1"
+        android:layout_height="wrap_content"/>
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:id="@+id/chbox"
+        android:layout_below="@+id/cal"
+        android:layout_marginLeft="50dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="Share the trip"
+        android:layout_marginLeft="15dp"
+        android:id="@+id/tv2"
+        android:layout_toRightOf="@+id/chbox"
+        android:layout_below="@+id/cal"
+        android:layout_marginTop="20dp"
+        />
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="40dp"
+        android:id="@+id/btn"
+        android:text="Confirm Trip"
+        android:background="#0000A0"
+        android:layout_centerHorizontal="true"
+        android:textColor="#fff"
+        />
+</RelativeLayout>

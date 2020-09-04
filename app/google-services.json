@@ -1,0 +1,196 @@
+{
+  "project_info": {
+    "project_number": "476573143033",
+    "firebase_url": "https://plannertrip-b6346.firebaseio.com",
+    "project_id": "plannertrip-b6346",
+    "storage_bucket": "plannertrip-b6346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476573143033:android:f5168768334813ff4f7728",
+        "android_client_info": {
+          "package_name": "com.example.intelligenttripplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476573143033-ethjq0p1vauoh68abiqqk07o1462d4tp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intelligenttripplanner",
+            "certificate_hash": "97bdaf93d2221f9745149cebf6c025030123161d"
+          }
+        },
+        {
+          "client_id": "476573143033-cv744pj1rn4cq0us3ammhanna4495c77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDccd84nXj6QtawMGTR8tzfxEMEGW2mmic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476573143033-cv744pj1rn4cq0us3ammhanna4495c77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476573143033:android:72ae9efcd9f958614f7728",
+        "android_client_info": {
+          "package_name": "com.example.miniplacesselect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476573143033-3tm3aid65ts914c0aieoki2ndpnih462.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miniplacesselect",
+            "certificate_hash": "97bdaf93d2221f9745149cebf6c025030123161d"
+          }
+        },
+        {
+          "client_id": "476573143033-cv744pj1rn4cq0us3ammhanna4495c77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDccd84nXj6QtawMGTR8tzfxEMEGW2mmic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476573143033-cv744pj1rn4cq0us3ammhanna4495c77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476573143033:android:c91ff72e677784c14f7728",
+        "android_client_info": {
+          "package_name": "com.example.placesapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476573143033-ru9h6nd8e4oh4tl3s5lokg8uj1p3jojt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.placesapi",
+            "certificate_hash": "3f1a4ccd2dd40f92eae445c09b3c4db7c0957e29"
+          }
+        },
+        {
+          "client_id": "476573143033-cv744pj1rn4cq0us3ammhanna4495c77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDccd84nXj6QtawMGTR8tzfxEMEGW2mmic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476573143033-cv744pj1rn4cq0us3ammhanna4495c77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476573143033:android:711a19681ea502dd4f7728",
+        "android_client_info": {
+          "package_name": "com.example.plannertrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476573143033-953o7s2nv1792j2ffdrdpn550r2ifn8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plannertrip",
+            "certificate_hash": "3f1a4ccd2dd40f92eae445c09b3c4db7c0957e29"
+          }
+        },
+        {
+          "client_id": "476573143033-cv744pj1rn4cq0us3ammhanna4495c77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDccd84nXj6QtawMGTR8tzfxEMEGW2mmic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476573143033-cv744pj1rn4cq0us3ammhanna4495c77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476573143033:android:6068b07824d4839c4f7728",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476573143033-1b0k366nufd2jk32dh54liej4lur9she.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapp",
+            "certificate_hash": "3f1a4ccd2dd40f92eae445c09b3c4db7c0957e29"
+          }
+        },
+        {
+          "client_id": "476573143033-cv744pj1rn4cq0us3ammhanna4495c77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDccd84nXj6QtawMGTR8tzfxEMEGW2mmic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476573143033-cv744pj1rn4cq0us3ammhanna4495c77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

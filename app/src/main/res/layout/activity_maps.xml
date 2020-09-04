@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MapsActivity">
+
+
+
+    <Button
+        android:id="@+id/B_search"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="5dp"
+        android:layout_height="45dp"
+        android:layout_alignParentTop="true"
+
+        android:onClick="onClick"
+        android:text="View Place on Map"
+        />
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context="com.example.placesapi.MapsActivity"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/B_hopistals"
+        android:layout_above="@+id/btn"
+        android:layout_marginBottom="40dp"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:layout_alignParentBottom="true"
+        android:text="confirm booking"
+        android:id="@+id/btn"
+
+        />
+    <Button
+        android:id="@+id/B_hopistals"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/B_search"
+        android:onClick="onClick"
+        android:text="Hotels" />
+
+    <Button
+        android:id="@+id/B_schools"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/B_search"
+
+        android:onClick="onClick"
+        android:text="Stations"
+        android:layout_centerHorizontal="true"
+
+        />
+
+    <Button
+        android:id="@+id/B_restaurants"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/B_search"
+
+        android:onClick="onClick"
+        android:text="Restautants"
+
+        android:layout_alignParentRight="true"
+        />
+
+
+</RelativeLayout>
